@@ -77,3 +77,24 @@ True
   - num -- 分割次数
 + 返回值
   - 返回分割后的字符串列表
+
+## upper()
++ upper() 方法将字符串中的小写字母转为大写字母
++ 正确用法
+  - str_new = str.upper()
+
+```python
+str = "this is string example....wow!!!";
+print "str.upper() : ", str.upper()
+
+output:str.upper() :  THIS IS STRING EXAMPLE....WOW!!!
+```
+
+## set.issubset()
+
++ set.issubset()
+
+```python
+def issubset(self, s: Iterable) -> bool
+  - Report whether another set contains this set.——判断是否为子集
+```

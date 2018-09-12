@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c76d3eb-a6dd-477d-94f0-bb36074849cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hg_771_Jewels_and_Stones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hg_811_Subdomain_Visit_Count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_500_Keyboard_Row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/.idea/array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,32 +20,33 @@
     <session id="-372331826">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="670" />
+          <entry key="py" value="1137" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="670" />
+          <entry key="Python" value="1137" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="pip" value="1" />
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -52,21 +56,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hg_771_Jewels_and_Stones.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+            <state relative-caret-position="-132">
+              <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hg_811_Subdomain_Visit_Count.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="69" column="8" lean-forward="true" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+              <folding>
+                <marker date="1536713498625" expanded="true" signature="2094:2095" ph="..." />
+                <marker date="1536713498625" expanded="true" signature="2136:2141" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hg_811_Subdomain_Visit_Count.py">
+        <entry file="file://$PROJECT_DIR$/hg_500_Keyboard_Row.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-              <folding>
-                <marker date="1536713498625" expanded="true" signature="2094:2095" ph="..." />
-                <marker date="1536713498625" expanded="true" signature="2136:2141" ph="..." />
-              </folding>
+            <state relative-caret-position="408">
+              <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -86,8 +99,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hg_811_Subdomain_Visit_Count.py" />
         <option value="$PROJECT_DIR$/hg_771_Jewels_and_Stones.py" />
+        <option value="$PROJECT_DIR$/hg_811_Subdomain_Visit_Count.py" />
+        <option value="$PROJECT_DIR$/hg_500_Keyboard_Row.py" />
       </list>
     </option>
   </component>
@@ -120,6 +134,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../array" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -134,7 +149,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hg_771_Jewels_and_Stones">
+  <component name="RunManager" selected="Python.hg_500_Keyboard_Row">
+    <configuration name="hg_500_Keyboard_Row" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hash_Table" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hg_500_Keyboard_Row.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hg_771_Jewels_and_Stones" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hash_Table" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,9 +216,11 @@
     <list>
       <item itemvalue="Python.hg_771_Jewels_and_Stones" />
       <item itemvalue="Python.hg_811_Subdomain_Visit_Count" />
+      <item itemvalue="Python.hg_500_Keyboard_Row" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hg_500_Keyboard_Row" />
         <item itemvalue="Python.hg_771_Jewels_and_Stones" />
         <item itemvalue="Python.hg_811_Subdomain_Visit_Count" />
       </list>
@@ -202,15 +240,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18484187" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.129771" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33506763" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39334026" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27575442" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40478668" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -228,6 +267,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>word[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>d[1:]</expression-string>
         <language-id>Python</language-id>
@@ -250,21 +294,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hg_771_Jewels_and_Stones.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+        <state relative-caret-position="-132">
+          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hg_811_Subdomain_Visit_Count.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="591">
+          <caret line="69" column="8" lean-forward="true" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
           <folding>
             <marker date="1536713498625" expanded="true" signature="2094:2095" ph="..." />
             <marker date="1536713498625" expanded="true" signature="2136:2141" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hg_500_Keyboard_Row.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="67" />
         </state>
       </provider>
     </entry>
