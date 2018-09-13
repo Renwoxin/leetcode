@@ -67,6 +67,7 @@ True
 
 ## collections.Counter()
 + 定义一个 c = collections.Counter() ，c可以保存一系列字典
++ 通过collections.Counter可以计算一个字符串列表中每一个单词出现的次数，并以单词为key、次数为内容保存为字典形式
 
 ## split()
 + split() 通过指定分隔符对字符串进行切片，如果参数 num 有指定值，则仅分隔 num 个子字符串
@@ -97,4 +98,17 @@ output:str.upper() :  THIS IS STRING EXAMPLE....WOW!!!
 ```python
 def issubset(self, s: Iterable) -> bool
   - Report whether another set contains this set.——判断是否为子集
+```
+
+## 字符串的拼接
+
+```python
+In [1]: A = "this apple is sweet"
+In [2]: B = "this apple is sour"
+
+In [3]: A + B
+Out[3]: 'this apple is sweetthis apple is sour'
+
+In [4]: A +" "+B
+Out[4]: 'this apple is sweet this apple is sour'
 ```
