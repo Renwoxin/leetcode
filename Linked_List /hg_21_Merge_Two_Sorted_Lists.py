@@ -10,6 +10,7 @@ Output: 1->1->2->3->4->4
 
 #　整体思路
 #　递归
+# 问题：　return l1 or l2 有什么具体功能？还能一直循环返回？
 import list
 
 # Definition for singly-linked list.
