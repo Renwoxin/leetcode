@@ -75,3 +75,28 @@ Out[3: [2, 4, 3, 1]
 In [1]: max(80, 100, 1000)
 Out[1]: 1000
 ```
+
+## get()
++ Python 字典(Dictionary) get() 函数返回指定键的值，如果值不在字典中返回默认值
+
+### 语法
++ dict.get(key, default=None)
+
+### 参数
++ key -- 字典中要查找的键。
++ default -- 如果指定键的值不存在时，返回该默认值值。
+
+### 返回值
++ 返回指定键的值，如果值不在字典中返回默认值None。
+
+### 实例
+```python
+dict = {'Name': 'Zara', 'Age': 27}
+
+print "Value : %s" %  dict.get('Age')
+print "Value : %s" %  dict.get('Sex', "Never")
+以上实例输出结果为：
+
+Value : 27
+Value : Never
+```
